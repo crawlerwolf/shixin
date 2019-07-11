@@ -1,5 +1,5 @@
-host_names.py  ´ÓsolrµØÖ·ÌáÈ¡ÆóÒµÃû³ÆÖÁredis
-Mongo.py  Á¬½ÓMongoÊý¾Ý¿â
-shixin.py ²éÑ¯²¢ÌáÈ¡ÐÅÏ¢²¢½«ÐÅÏ¢´æÈëMySQLÊý¾Ý¿â
-shixin_main.py  Ö´ÐÐ³ÌÐò£¨Ö÷³ÌÐò£©
-SX_num.txt ÒÑ¾­ÌáÈ¡¹«Ë¾Ãû³ÆµÄÊýÁ¿
+host_names.py  ä¼ä¸šåç§°å­˜å…¥redis
+Mongo.py  è¿žæŽ¥Mongoæ•°æ®åº“
+shixin.py æŸ¥è¯¢å¹¶æå–ä¿¡æ¯å¹¶å°†ä¿¡æ¯å­˜å…¥MySQLæ•°æ®åº“
+shixin_main.py  æ‰§è¡Œç¨‹åºï¼ˆä¸»ç¨‹åºï¼‰
+SX_num.txt å·²ç»æå–å…¬å¸åç§°çš„æ•°é‡
