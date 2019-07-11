@@ -1,0 +1,5 @@
+host_names.py  从solr地址提取企业名称至redis
+Mongo.py  连接Mongo数据库
+shixin.py 查询并提取信息并将信息存入MySQL数据库
+shixin_main.py  执行程序（主程序）
+SX_num.txt 已经提取公司名称的数量
