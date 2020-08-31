@@ -1,4 +1,3 @@
-host_names.py  企业名称存入redis
 Mongo.py  连接Mongo数据库
 shixin.py 查询并提取信息并将信息存入MySQL数据库
 shixin_main.py  执行程序（主程序）
